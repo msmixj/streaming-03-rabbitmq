@@ -1,8 +1,8 @@
-2024-05-24 22:21:51,874.v2_emit_message.INFO ==================================================
-2024-05-24 22:21:51,875.v2_emit_message.INFO Today is 2024-05-24 at 10:21 PM
-2024-05-24 22:21:51,875.v2_emit_message.INFO Running on: nt Windows 10
-2024-05-24 22:21:51,875.v2_emit_message.INFO Python version:  3.11.1
-2024-05-24 22:21:51,875.v2_emit_message.INFO Python path: c:\Users\15152\OneDrive\Documents\MS Data Analytics\Streaming Data\streaming-03-rabbitmq\.venv
-2024-05-24 22:21:51,875.v2_emit_message.INFO Working dir: C:\Users\15152\OneDrive\Documents\MS Data Analytics\Streaming Data\streaming-03-rabbitmq
-2024-05-24 22:21:51,876.v2_emit_message.INFO ==================================================
-2024-05-24 22:21:51,889.v2_emit_message.INFO  [x] Sent how are you today?
+2024-05-24 22:31:51,027.v2_emit_message.INFO ==================================================
+2024-05-24 22:31:51,028.v2_emit_message.INFO Today is 2024-05-24 at 10:31 PM
+2024-05-24 22:31:51,028.v2_emit_message.INFO Running on: nt Windows 10
+2024-05-24 22:31:51,028.v2_emit_message.INFO Python version:  3.11.1
+2024-05-24 22:31:51,029.v2_emit_message.INFO Python path: c:\Users\15152\OneDrive\Documents\MS Data Analytics\Streaming Data\streaming-03-rabbitmq\.venv
+2024-05-24 22:31:51,029.v2_emit_message.INFO Working dir: C:\Users\15152\OneDrive\Documents\MS Data Analytics\Streaming Data\streaming-03-rabbitmq
+2024-05-24 22:31:51,029.v2_emit_message.INFO ==================================================
+2024-05-24 22:31:51,044.v2_emit_message.INFO  [x] Sent Is this a different way of emitting messages? 
